@@ -1,3 +1,6 @@
+<p align="center">
+<a href="https://www.linkedin.com/pulse/how-hide-from-nsa-cia-basic-anonymity-techniques-black-joas-a-santos" target="_blank" rel="noopener noreferrer"> Black Hat 2023 Article </a>
+
 <div class="icon-container">
  <p align="center">
 <a href="https://www.linkedin.com/in/khetaguridimitri" target="_blank" rel="noopener noreferrer">
